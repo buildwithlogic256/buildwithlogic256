@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **shashwattiwari712@gmail.com** For Collaboration/Project o
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shashwat-tiwari-5bba2b324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashwat-tiwari-5bba2b324" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashwat-tiwari-5bba2b324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashwat-tiwari-5bba2b324" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shashwat_7123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shashwat_7123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shashwattiwari73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashwattiwari73" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashwat_712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat_712" height="30" width="40" /></a>
